@@ -1,5 +1,4 @@
-# 1-ManejoJavaWeb-VSCode-Maven
-1-Manejo básico de Java Web con VSCode y Maven
+# 1-Manejo básico de Java Web con VSCode y Maven
 # Índice de Contenidos
 
 1. [Instalación de Visual Studio Code y extensiones necesarias](#1-instalación-de-visual-studio-code-y-extensiones-necesarias)
